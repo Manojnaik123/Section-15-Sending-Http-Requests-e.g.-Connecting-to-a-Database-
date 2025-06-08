@@ -13,12 +13,10 @@
 ### Install npm packages using command 'npm install' in main project and the backend project. 
 ### After thet run the react project and open new terminal to run the backend server using command ' node app.js'
 
+<h1>232. How NOT To Send HTTP Requests (And Why It's Wrong)</h1>
 
 
 
-
-
-<h1></h1>
 <h1></h1>
 <h1></h1>
 <h1></h1>
